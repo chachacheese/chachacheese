@@ -1,6 +1,6 @@
-<!-- 상단 배너 (파스텔그린 + 클로버 분위기) -->
+<!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BC34A&height=180&section=header&text=Jinyoung%20(chachacheese)&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=🍀중요한건%20꺾이지%20않는%20마음!%20AI%20헬스케어%20과정%20진행중입니다.🍀&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BC34A&height=180&section=header&text=Jinyoung%20(chachacheese)&fontColor=#66BB6A&fontSize=45&animation=fadeIn&desc=🍀중요한건%20꺾이지%20않는%20마음!%20AI%20헬스케어%20과정%20진행중입니다.🍀&descAlignY=75" />
 </p>
 
 <!-- 방문자 카운트 -->
@@ -70,8 +70,8 @@ AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 �
 ---
 
 ## 📬 Contact  
-🌱 Velog: *(넣어줄래?)*  
-📩 Email: *(원하면 넣어줘!)*  
+🌱 Velog: *https://velog.io/@jiiiin0/posts*  
+📩 Email: *10sim_2@naver.com*  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-8BC34A?style=for-the-badge&logo=leaflet&logoColor=white" />
