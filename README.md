@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&hide_border=true" />
+  ![chachacheese's GitHub stats](https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy)
 </p>
 
 ---
