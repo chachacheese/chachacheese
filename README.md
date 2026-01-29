@@ -1,94 +1,78 @@
-<!-- Banner -->
+<!-- 상단 배너 (파스텔그린 + 클로버 분위기) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Healthcare-%23A7E8BD?style=for-the-badge&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BC34A&height=180&section=header&text=Jinyoung%20(chachacheese)&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=🍀중요한건%20꺾이지%20않는%20마음!%20AI%20헬스케어%20과정%20진행중입니다.🍀&descAlignY=75" />
 </p>
 
-<h1 align="center">🍀 Hi, I'm <strong>chachacheese</strong>! </h1>
-<p align="center">🍀중요한건 꺾이지 않는 마음! AI 헬스케어 과정 진행중입니다.🍀</p>
+<!-- 방문자 카운트 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chachacheese&label=VISITORS&color=4CAF50&style=flat-square" />
+</p>
+
+<!-- 인사 애니메이션 GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80px" />
+</div>
+
+<h2 align="center">🍀 Welcome to My Data Space 🍀</h2>
 
 ---
 
-## 🍀 About Me
-- 🩺 **AI 헬스케어 부트캠프**에서 데이터 분석 & 머신러닝 과정 진행중 
-- 💡 "조금 어려워도 포기하지 않고 결국엔 해내는 사람"
-- 🌱 최근 관심사: 의료 데이터 분석, 불균형 데이터 처리(SMOTE), 모델 해석  
-- 🌿 마음이 편안해지는 파스텔 그린톤 + 클로버🍀 애정함 긍정기운 깃든거 좋아합니다! 
+## 👩‍⚕️ About Me
+
+🩺 **AI 헬스케어 부트캠프에서 데이터 분석 & 머신러닝 과정 진행중**  
+💡 *"조금 어려워도 포기하지 않고 결국엔 해내는 사람"*  
+🌱 **최근 관심사**: 의료 데이터 분석, 불균형 데이터 처리(SMOTE), 모델 해석  
+🌿 파스텔 그린톤 + 클로버🍀 애정함 — **긍정기운 깃든 걸 좋아합니다!**
 
 ---
 
 ## 🔧 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C8CB5?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+
+### 📊 Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4AB19D?style=for-the-badge)
+
+### 🔧 Dev Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 📁 Featured Projects
 
-### 🍀 **흡연 여부 데이터 분석**
-> 건강검진 데이터를 활용해 **흡연 여부를 예측/분석**한 프로젝트  
-> 다양한 시각화, 변수 분석, EDA를 통한 인사이트 도출
+### 🔹 **흡연 여부 건강 데이터 분석 (EDA 중심)**  
+> 건강검진 데이터를 활용해 흡연자 vs 비흡연자 간 지표 차이를 분석  
+🔗 https://github.com/chachacheese/oz_miniproject_selfrebuild
 
-🔗 GitHub: (업로드한 뒤 링크 추가 예정)
-
----
-
-### 🩺 **건강관리 실습 프로젝트**
-> 건강 데이터 기반 **의료 분류 문제 실습**  
-> SMOTE를 통한 불균형 데이터 처리 + FP/FN 변화 분석
-
-🔗 GitHub: (오늘 저녁 심화반 스터디 완료 후 링크 추가 예정)
+### 🔹 **More Projects Coming Soon…**  
+AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 예정입니다 🌱
 
 ---
 
+## 🍀 My Motto  
+> **"어려워도 포기하지 않고 결국엔 해내는 사람."**  
+작은 한 걸음들이 모여, 결국 데이터를 이해하는 힘이 됩니다.
 
-## 🍀 GitHub Stats
+---
+
+## 📊 GitHub Stats  
+(⚠️ GitHub Stats API는 가끔 서버 다운될 수 있음)
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&title_color=4CAF50&icon_color=4CAF50&text_color=4A4A4A&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&title_color=4CAF50&text_color=4A4A4A&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&hide_border=true" />
 </p>
+
+---
+
+## 📬 Contact  
+🌱 Velog: *(넣어줄래?)*  
+📩 Email: *(원하면 넣어줘!)*  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/always_learning-%23A7E8BD?style=for-the-badge&logo=clover&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-8BC34A?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
-
----
-
-## 🍀 Motto 
-### **“어려워도 결국 해결하는 사람.”**  
-### **그리고, 그런 과정 자체를 즐길 줄 아는 사람.**
-### **나는 할 수 있다 아자아자아자! **
-
----
-
-## 📫 Contact
-- ✍️ Velog: https://velog.io/@jiiiin0  
-- 📧 Email: 10sim_2@naver.com
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/always_learning-%23A7E8BD?style=for-the-badge&logo=leaflet&logoColor=white" />
-</p>
-
-<!--
-**chachacheese/chachacheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
