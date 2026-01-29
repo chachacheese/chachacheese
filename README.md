@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">🍀 Hi, I'm <strong>chachacheese</strong>! </h1>
-<p align="center">중요한건 꺾이지 않는 마음! AI 헬스케어 과정 진행중입니다. 🌿</p>
+<p align="center">🍀중요한건 꺾이지 않는 마음! AI 헬스케어 과정 진행중입니다.🍀</p>
 
 ---
 
 ## 🍀 About Me
-- 🩺 **AI 헬스케어 부트캠프**에서 데이터 분석 & 머신러닝 실전 프로젝트 수행  
+- 🩺 **AI 헬스케어 부트캠프**에서 데이터 분석 & 머신러닝 과정 진행중 
 - 💡 "조금 어려워도 포기하지 않고 결국엔 해내는 사람"
 - 🌱 최근 관심사: 의료 데이터 분석, 불균형 데이터 처리(SMOTE), 모델 해석  
 - 🌿 마음이 편안해지는 파스텔 그린톤 + 클로버🍀 애정함 긍정기운 깃든거 좋아합니다! 
@@ -47,10 +47,16 @@
 
 ---
 
-## 📊 GitHub Stats
+
+## 🍀 GitHub Stats
+
 <p align="center">
-  ![chachacheese's GitHub stats](https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy)
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&title_color=4CAF50&icon_color=4CAF50&text_color=4A4A4A&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&title_color=4CAF50&text_color=4A4A4A&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/always_learning-%23A7E8BD?style=for-the-badge&logo=clover&logoColor=white" />
 </p>
 
 ---
