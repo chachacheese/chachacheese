@@ -13,15 +13,15 @@
   <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif" width="70px" />
 </div>
 
-<h2 align="center">🍀중요한건 꺾이지 않는 마음!🍀</h2>
+<h2 align="center">🍀AI 헬스케어를 향해 꾸준히 성장 중인 개발자 지망생🍀</h2>
 
 ---
 
 ## 👩‍⚕️ About Me
 
-🩺 **오즈코딩스쿨 AI 헬스케어 부트캠프 데이터 분석 & 머신러닝 과정 진행중**  
-💡 *"조금 어려워도 포기하지 않고 결국엔 해내는 사람"*  
-🌱 **최근 관심사**: 의료 데이터 분석, 머신러닝 모델 해석  
+🩺 **오즈코딩스쿨 AI 헬스케어 부트캠프 데이터 분석 & 머신러닝 학습 진행중**  
+💡 *"흔들려도, 실수해도… 그걸 배움으로 바꾸며 꾸준히 나아갑니다. 중요한건 꺾이지 않는 마음!"*  
+🌱 **최근 관심사**: 의료 데이터 분석, 머신러닝 모델링, 모델 해석  
 🌿 파스텔 그린 + 클로버🍀 애정함 — **긍정기운 깃든 걸 좋아합니다!**
 
 ---
@@ -33,6 +33,8 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4AB19D?style=for-the-badge)
+
+### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 🔧 Dev Tools
@@ -47,8 +49,9 @@
 
 ### 🔹 **흡연 여부 건강 데이터 분석 (EDA 중심)**  
 > 건강검진 데이터를 활용해 흡연자 vs 비흡연자 간 지표 차이를 분석  
+- 주요 작업: EDA · 시각화 · Welch t-test · Mann-Whitney U-test · 분포 비교
+- 사용 기술: Pandas, Matplotlib, Seaborn, SciPy  
 🔗 https://github.com/chachacheese/oz_miniproject_selfrebuild
-📌 주요 작업: EDA · 시각화 · Welch t-test · Mann-Whitney U-test · 분포 비교  
 ### 🔹 **More Projects Coming Soon…**  
 AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 예정입니다 🌱
 
@@ -61,7 +64,7 @@ AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 �
 ---
 
 ## 📊 GitHub Stats  
-(⚠️ GitHub Stats API는 가끔 서버 다운될 수 있음)
+(⚠️ 안정성을 위해 GitHub Stats는 셀프 호스팅)
 
 <p align="center">
 <img height="150"
