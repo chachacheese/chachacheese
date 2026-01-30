@@ -55,7 +55,7 @@
 
 ### 🔹 **FastAPI + Tortoise ORM 기반 건강 기록 API 서버 (기본 기능 구현)**  
 > FastAPI와 Tortoise ORM을 활용해 건강 데이터(Exercise / Meal / Sleep / Water)모델 정의하고,  
-> DB 연결 및 일부 CRUD 기능을 구현한 비동기 기반 학습 프로젝트**
+> DB 연결 및 CRUD 기능을 구현한 비동기 기반 학습 프로젝트**
 비동기 환경에서 CRUD 형태로 다룰 수 있는 기본 API 서버 구현
 - 주요 작업
   - Tortoise ORM 설정 및 SQLite DB 연결(`db.py`)
