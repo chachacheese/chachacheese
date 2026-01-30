@@ -62,7 +62,8 @@
   - User / Exercise / Meal / Sleep / Water **모델 정의**
   - `pages.py`에 기본 HTML 라우터 일부 구현
 -	사용 기술: FastAPI, Pydantic, Tortoise ORM, SQLite, Uvicorn
-🔗 https://github.com/chachacheese/ai_health_care_mini_project
+
+🔗 https://github.com/chachacheese/ai_health_care_mini_project-main
 
 ### 🔹 **More Projects Coming Soon…**  
 AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 예정입니다 🌱
