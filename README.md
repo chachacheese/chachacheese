@@ -63,11 +63,11 @@ AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 �
 (⚠️ GitHub Stats API는 가끔 서버 다운될 수 있음)
 
 <p align="center">
- <img height="150"
-  src="https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&hide_border=true&cache_seconds=21600&rank_icon=github"
+<img height="150"
+  src="https://github-readme-stats-six-gamma-13.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&hide_border=true&cache_seconds=21600"
 />
-  <img height="150"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&hide_border=true&cache_seconds=21600&langs_count=8"
+ <img height="150"
+  src="https://github-readme-stats-six-gamma-13.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&hide_border=true&langs_count=8&cache_seconds=21600"
 />
 </p>
 
