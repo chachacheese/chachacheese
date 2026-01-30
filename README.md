@@ -53,12 +53,17 @@
 - 사용 기술: Pandas, Matplotlib, Seaborn, SciPy  
 🔗 https://github.com/chachacheese/oz_miniproject_selfrebuild
 
-### 🔹 **FastAPI + Tortoise ORM 기반 건강 기록 API 서버**  
-> FastAPI와 Tortoise ORM을 활용해 **사용자 정보 및 건강 데이터(Exercise / Meal / Sleep / Water)**를
+### 🔹 **FastAPI + Tortoise ORM 기반 건강 기록 API 서버 (기본 기능 구현)**  
+> FastAPI와 Tortoise ORM을 활용해 건강 데이터(Exercise / Meal / Sleep / Water)모델 정의하고,  
+> DB 연결 및 일부 CRUD 기능을 구현한 비동기 기반 학습 프로젝트**
 비동기 환경에서 CRUD 형태로 다룰 수 있는 기본 API 서버 구현
-- 주요 작업: Tortoise ORM 기반 모델 정의 (Exercise / Meal / Sleep / Water), SQLite 연결 및 스키마 자동 생성, 사용자 및 건강 데이터에 대한 기본 CRUD 엔드포인트 추가
+- 주요 작업
+  - Tortoise ORM 설정 및 SQLite DB 연결(`db.py`)
+  - User / Exercise / Meal / Sleep / Water **모델 정의**
+  - `pages.py`에 기본 HTML 라우터 일부 구현
 -	사용 기술: FastAPI, Pydantic, Tortoise ORM, SQLite, Uvicorn
 🔗 
+
 ### 🔹 **More Projects Coming Soon…**  
 AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 예정입니다 🌱
 
