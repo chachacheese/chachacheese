@@ -10,7 +10,7 @@
 
 <!-- 인사 애니메이션 GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chachacheese/greenn-heart.gif" width="80px" />
+  <img src="[https://raw.githubusercontent.com/chachacheese/greenn-heart.gi](https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif)f" width="80px" />
 </div>
 
 <h2 align="center">🍀중요한건 꺾이지 않는 마음! AI 헬스케어 과정 진행중입니다.🍀</h2>
