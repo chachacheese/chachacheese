@@ -93,7 +93,7 @@
 
 ## 📬 Contact  
 🌱 Velog: *https://velog.io/@jiiiin0/posts*  
-📩 Email: *10sim_2@naver.com*  
+📩 Email: *oz.data.88@gmail.com*  
 🔍 GitHub: *https://github.com/chachacheese*
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-8BC34A?style=for-the-badge&logo=leaflet&logoColor=white" />
