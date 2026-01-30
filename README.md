@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BC34A&height=180&section=header&text=Hi%20I'm%20True0%20(chachacheese)&fontColor=66BB6A&fontSize=45&animation=fadeIn&desc=🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BC34A&height=180&section=header&text=Hi%20I'm%20True0%20(chachacheese)&fontColor=&ffffff=45&animation=fadeIn&desc=🍀🍀🍀🍀🍀&descAlignY=75" />
 </p>
 
 <!-- 방문자 카운트 -->
@@ -63,8 +63,12 @@ AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 �
 (⚠️ GitHub Stats API는 가끔 서버 다운될 수 있음)
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&hide_border=true" />
+ <img height="150"
+  src="https://github-readme-stats.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&hide_border=true&cache_seconds=21600&rank_icon=github"
+/>
+  <img height="150"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&hide_border=true&cache_seconds=21600&langs_count=8"
+/>
 </p>
 
 ---
