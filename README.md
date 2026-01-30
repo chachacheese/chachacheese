@@ -66,7 +66,8 @@
 🔗 https://github.com/chachacheese/ai_health_care_mini_project-main
 
 ### 🔹 **More Projects Coming Soon…**  
-AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 예정입니다 🌱
+🌱머신러닝 미니 프로젝트 추가할 예정입니다. 🌱
+🌱AI HealthCare기반 최종 프로젝트 추가할 예정입니다.🌱
 
 ---
 
