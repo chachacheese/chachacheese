@@ -10,7 +10,7 @@
 
 <!-- 인사 애니메이션 GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif" width="80px" />
+  <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif" width="70px" />
 </div>
 
 <h2 align="center">🍀중요한건 꺾이지 않는 마음!🍀</h2>
@@ -33,6 +33,7 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4AB19D?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 🔧 Dev Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,14 +48,14 @@
 ### 🔹 **흡연 여부 건강 데이터 분석 (EDA 중심)**  
 > 건강검진 데이터를 활용해 흡연자 vs 비흡연자 간 지표 차이를 분석  
 🔗 https://github.com/chachacheese/oz_miniproject_selfrebuild
-
+📌 주요 작업: EDA · 시각화 · Welch t-test · Mann-Whitney U-test · 분포 비교  
 ### 🔹 **More Projects Coming Soon…**  
 AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 예정입니다 🌱
 
 ---
 
 ## 🍀 My Motto  
-> **"어려워도 포기하지 않고 결국엔 해내는 사람."**  
+> **"어려워도 포기하지 않고 꾸준히! 결국엔 해내는 사람."**  
 실수와 실패도 배움으로 삼아, 꾸준함으로 앞으로 나아가는 사람이 저예요
 
 ---
@@ -76,7 +77,7 @@ AI 헬스케어 기반의 분석/모델링 프로젝트를 꾸준히 추가할 �
 ## 📬 Contact  
 🌱 Velog: *https://velog.io/@jiiiin0/posts*  
 📩 Email: *10sim_2@naver.com*  
-
+🔍 GitHub: *https://github.com/chachacheese*
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-8BC34A?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
