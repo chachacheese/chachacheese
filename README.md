@@ -1,10 +1,10 @@
 <!-- Banner with overlay -->
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <!-- 배너 -->
-  <img
+  <!-- <img
     src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/banner.png"
     style="width: 100%; display: block; border-radius: 12px;"
-  />
+  /> -->
 
   <!-- 방문자수 (배너 위) -->
   <img
