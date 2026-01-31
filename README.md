@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/A_digital_custom_banner_features_a_wavy_green_grad.png&desc=🍀🍀🍀🍀🍀" width="100%" />
+  <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/A_digital_custom_banner_features_a_wavy_green_grad.png"&&desc=🍀🍀🍀🍀🍀 &width="100%" />
 </p>
 
 <!-- 방문자 카운트 -->
