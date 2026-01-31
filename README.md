@@ -1,15 +1,24 @@
-<!-- 상단 배너 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/banner.png"&&desc=🍀🍀🍀🍀🍀 &width="100%" />
-</p>
+<!-- Banner with overlay -->
+<div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
+  <!-- 배너 -->
+  <img
+    src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/A_digital_custom_banner_features_a_wavy_green_grad.png"
+    style="width: 100%; display: block; border-radius: 12px;"
+  />
 
-<!-- 방문자 카운트 -->
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chachacheese&label=VISITORS&color=4CAF50&style=flat-square" />
-</p>
-<!-- 인사 애니메이션 GIF -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif" width="70px" />
+  <!-- 방문자수 (배너 위) -->
+  <img
+    src="https://komarev.com/ghpvc/?username=chachacheese&label=VISITORS&color=4CAF50&style=flat-square"
+    style="position: absolute; top: 16px; right: 16px;"
+    alt="visitors"
+  />
+
+  <!-- 하트 GIF (배너 위) -->
+  <img
+    src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif"
+    style="position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%); width: 70px;"
+    alt="green heart"
+  />
 </div>
 
 <h2 align="center">🍀웹 개발 경험에 데이터 분석 역량을 더하며 AI 헬스케어 분야의 개발자로 성장중입니다.🍀</h2>
