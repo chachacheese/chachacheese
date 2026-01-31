@@ -75,7 +75,7 @@
   - `pages.py`에 기본 HTML 라우터 일부 구현
 -	사용 기술: FastAPI, Pydantic, Tortoise ORM, SQLite, Uvicorn
 
-🔗 
+🔗 https://github.com/chachacheese/ai_health_care_mini_project
 
 ### 🔹 **More Projects Coming Soon…**  
 🌱머신러닝 미니 프로젝트 추가할 예정입니다. 🌱
