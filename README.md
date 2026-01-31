@@ -4,11 +4,11 @@
 </p>
 
 <!-- 방문자 카운트 -->
-<!-- 인사 애니메이션 GIF -->
-<div align="center">
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chachacheese&label=VISITORS&color=4CAF50&style=flat-square" />
 </p>
+<!-- 인사 애니메이션 GIF -->
+<div align="center">
   <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif" width="70px" />
 </div>
 
