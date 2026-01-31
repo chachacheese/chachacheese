@@ -2,7 +2,7 @@
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <!-- 배너 -->
   <img
-    src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/A_digital_custom_banner_features_a_wavy_green_grad.png"
+    src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/banner.png"
     style="width: 100%; display: block; border-radius: 12px;"
   />
 
