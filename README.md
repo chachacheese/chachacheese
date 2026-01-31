@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif" width="70px" />
 </div>
 
-<h2 align="center">🍀웹 개발 경험으로 쌓은 서비스 이해력을 바탕으로, 데이터 분석 역량을 확장하며 AI 헬스케어 분야의 개발자로 성장중🍀</h2>
+<h2 align="center">🍀웹 개발 경험에 데이터 분석 역량을 더하며 AI 헬스케어 분야의 개발자로 성장중입니다.🍀</h2>
 
 ---
 
