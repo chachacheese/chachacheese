@@ -56,8 +56,10 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
+## 📜 Certifications
+- 🍀 정보처리기사 (Engineer Information Processing, 2022)
+---
 ## 📁 Featured Projects
 
 ### 🔹 **흡연 여부 건강 데이터 분석 (EDA 중심)**  
