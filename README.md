@@ -62,7 +62,7 @@
 ---
 ## 📁 Featured Projects
 
-### 🔹 **흡연 여부 건강 데이터 분석 (EDA 중심)**  
+### 🌵 **흡연 여부 건강 데이터 분석 (EDA 중심)**  
 > 건강검진 데이터를 활용해 흡연자 vs 비흡연자 간 지표 차이를 분석  
 - 주요 작업: EDA · 시각화 · Welch t-test · Mann-Whitney U-test · 분포 비교
 - 사용 기술: Pandas, Matplotlib, Seaborn, SciPy  
@@ -80,19 +80,20 @@
 🔗 https://github.com/chachacheese/ai_health_care_mini_project
 
 ### 🔹 **More Projects Coming Soon…**  
-🌱머신러닝 미니 프로젝트 추가할 예정입니다. 🌱
-🌱AI HealthCare기반 최종 프로젝트 추가할 예정입니다.🌱
+🌵머신러닝 미니 프로젝트 추가할 예정입니다. 🌵
+
+🌳AI HealthCare기반 최종 프로젝트 추가할 예정입니다.🌳
 
 ---
 
 ## 🗂 Archive Projects (과거 프로젝트)
 
-### 🔹 Semicolon – Web Application Prototype (2인 팀 · 2021)
+### 🌵 Semicolon – Web Application Prototype (2인 팀 · 2021)
 Java + JSP 기반으로 로그인, 게시판 CRUD, 좋아요, 페이징 등
 기본 웹 기능을 실습 중심으로 구현한 중간 프로젝트입니다.  
 🔗 https://github.com/chachacheese/semicolon (archive)
 
-### 🔸 Project145 – Fintech 기반 웹 서비스 (5인 팀 · 2021)
+### 🌳 Project145 – Fintech 기반 웹 서비스 (5인 팀 · 2021)
 Java 기반 Spring MVC 웹 프로젝트로, 계좌/적립금 기능, 게시판, OAuth 로그인 등
 웹 서비스 핵심 기능을 직접 구현한 팀 프로젝트입니다.  
 주요 구현 기능: 메인 UI, 로그인, 네이버 OAuth, 네이버 검색 API, 레시피 CRUD, 댓글 기능  
