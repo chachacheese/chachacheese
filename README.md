@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BC34A&height=200&section=header&animation=fadeIn&desc=🍀🍀🍀🍀🍀&descAlignY=75"width="100%"   />
+  <img src="A_digital_custom_banner_features_a_wavy_green_grad.png&desc=🍀🍀🍀🍀🍀" width="100%" />
 </p>
 
 <!-- 방문자 카운트 -->
