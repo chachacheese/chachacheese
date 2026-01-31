@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BC34A&height=280&section=header&text=Hi%20I'm%20True0%20(chachacheese)&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=🍀🍀🍀🍀🍀&descAlignY=75"width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BC34A&height=250&section=header&text=Hi%20I'm%20True0%20(chachacheese)&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=🍀🍀🍀🍀🍀&descAlignY=75"width="100%" />
 </p>
 
 <!-- 방문자 카운트 -->
