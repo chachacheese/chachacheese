@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/chachacheese/chachacheese/main/green-heart.gif" width="70px" />
 </div>
 
-<h2 align="center">🍀AI 헬스케어를 향해 꾸준히 성장 중인 개발자 지망생🍀</h2>
+<h2 align="center">🍀웹 개발 경험으로 쌓은 서비스 이해력을 바탕으로, 데이터 분석 역량을 확장하며 AI 헬스케어 분야의 개발자로 성장중🍀</h2>
 
 ---
 
@@ -22,6 +22,7 @@
 🩺 **오즈코딩스쿨 AI 헬스케어 부트캠프 데이터 분석 & 머신러닝 학습 진행중**  
 💡 *"흔들려도, 실수해도… 그걸 배움으로 바꾸며 꾸준히 나아갑니다. 중요한건 꺾이지 않는 마음!"*  
 🌱 **최근 관심사**: 의료 데이터 분석, 머신러닝 모델링, 모델 해석  
+💼 **과거 경험**: Java 기반 웹 개발 및 핀테크 프로젝트 참여 
 🌿 파스텔 그린 + 클로버🍀 애정함 — **긍정기운 깃든 걸 좋아합니다!**
 
 ---
@@ -68,6 +69,22 @@
 ### 🔹 **More Projects Coming Soon…**  
 🌱머신러닝 미니 프로젝트 추가할 예정입니다. 🌱
 🌱AI HealthCare기반 최종 프로젝트 추가할 예정입니다.🌱
+
+---
+
+## 🗂 Archive Projects (과거 프로젝트)
+
+### 🔹 Semicolon – Web Application Prototype (2인 팀 · 2021)
+Java + JSP 기반으로 로그인, 게시판 CRUD, 좋아요, 페이징 등
+기본 웹 기능을 실습 중심으로 구현한 중간 프로젝트입니다.  
+🔗 https://github.com/chachacheese/semicolon (archive)
+
+### 🔸 Project145 – Fintech 기반 웹 서비스 (5인 팀 · 2021)
+Java MVC 기반 웹 프로젝트로, 계좌/적립금 기능, 게시판, OAuth 로그인 등
+웹 서비스 핵심 기능을 직접 구현한 팀 프로젝트입니다.  
+주요 구현 기능: 메인 UI, 로그인, 네이버 OAuth, 네이버 검색 API, 레시피 CRUD, 댓글 기능  
+🔗 https://github.com/chachacheese/project145 (archive)
+
 
 ---
 
