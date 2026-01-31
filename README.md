@@ -93,7 +93,7 @@ Java + JSP 기반으로 로그인, 게시판 CRUD, 좋아요, 페이징 등
 🔗 https://github.com/chachacheese/semicolon (archive)
 
 ### 🔸 Project145 – Fintech 기반 웹 서비스 (5인 팀 · 2021)
-Java MVC 기반 웹 프로젝트로, 계좌/적립금 기능, 게시판, OAuth 로그인 등
+Java 기반 Spring MVC 웹 프로젝트로, 계좌/적립금 기능, 게시판, OAuth 로그인 등
 웹 서비스 핵심 기능을 직접 구현한 팀 프로젝트입니다.  
 주요 구현 기능: 메인 UI, 로그인, 네이버 OAuth, 네이버 검색 API, 레시피 CRUD, 댓글 기능  
 🔗 https://github.com/chachacheese/project145 (archive)
