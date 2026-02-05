@@ -102,20 +102,6 @@ Java 기반 Spring MVC 웹 프로젝트로, 계좌/적립금 기능, 게시판, 
 
 ---
 
-## 📊 GitHub Stats  
-(⚠️ 안정성을 위해 GitHub Stats는 셀프 호스팅)
-
-<p align="center">
-<img height="150"
-  src="https://github-readme-stats-six-gamma-13.vercel.app/api?username=chachacheese&show_icons=true&theme=buefy&hide_border=true&cache_seconds=21600"
-/>
- <img height="150"
-  src="https://github-readme-stats-six-gamma-13.vercel.app/api/top-langs/?username=chachacheese&layout=compact&theme=buefy&hide_border=true&langs_count=8&cache_seconds=21600"
-/>
-</p>
-
----
-
 ## 📬 Contact  
 🌱 Velog: *https://velog.io/@jiiiin0/posts*  
 📩 Email: *oz.data.88@gmail.com*  
