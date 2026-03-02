@@ -79,8 +79,23 @@
 
 🔗 https://github.com/chachacheese/ai_health_care_mini_project
 
-### 🌳 **More Projects Coming Soon…**  
-🌵머신러닝 미니 프로젝트 추가할 예정입니다. 🌵
+### 🌵 Calorie Burn Prediction (Regression)
+
+> From Tree Models to Polynomial Regression  
+> 데이터 구조 재해석을 통해 RMSE를 **2.24 → 0.134 (94% 개선)**
+- Performance
+  - **Final OOF RMSE:** 0.134  
+  - **Public Leaderboard:** 0.12  
+- 🧠 Key Strategy
+  - Tree 기반 모델의 한계 확인 후 문제 구조 재해석
+  - Polynomial Regression + Ridge 도입
+  - Residual 분석을 통한 곱셈 구조 발견
+  - Feature Pruning & Gender-specific modeling
+  - Reproducible visualization pipeline 구축
+-	사용 기술:  Python, scikit-learn, LightGBM, XGBoost, Optuna, Pandas, Matplotlib
+
+🔗 https://github.com/chachacheese/calories_burned_prediction
+
 
 🌳AI HealthCare기반 최종 프로젝트 추가할 예정입니다.🌳
 
