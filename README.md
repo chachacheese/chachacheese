@@ -86,7 +86,7 @@
 - Performance
   - **Final OOF RMSE:** 0.134  
   - **Public Leaderboard:** 0.12  
-- 🧠 Key Strategy
+- Key Strategy
   - Tree 기반 모델의 한계 확인 후 문제 구조 재해석
   - Polynomial Regression + Ridge 도입
   - Residual 분석을 통한 곱셈 구조 발견
